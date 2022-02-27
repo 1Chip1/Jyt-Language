@@ -14,6 +14,8 @@
 A small programming language for math And Stuff.
 !
 # JYT IS UNDER DEVELOPMENT!
+This repo will not have the code untill most of the lang will be finished!
+If You Wanna Get Notification When The Code Is Out Follow And Star This Repo
 
 # Code Examples
 Simple Variables

@@ -30,7 +30,7 @@ Jyt
 ```
 
 
-Dont Do This!
+Do Not Do This!
 ```
 startv name = "Jyt";
 

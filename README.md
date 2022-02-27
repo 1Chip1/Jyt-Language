@@ -1,4 +1,7 @@
 ![alt text](https://github.com/1Chip1/Jyt-Language/blob/main/logo.png?raw=true)
+<a href="https://github.com/1Chip1/Jyt-Language/blob/master/LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/1Chip1/Jyt-Language">
+</a>
 
 # Jyt-Language
 A small programming language for math And Stuff.

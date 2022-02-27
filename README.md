@@ -6,6 +6,9 @@
 <a href="https://github.com/1Chip1/Jyt-Language/issues">
     <img alt="Pull requests" src="https://shields.io/github/issues-pr/1Chip1/Jyt-Language">
 </a>
+<a href="https://github.com/1Chip1/Jyt-Language/issues">
+    <img alt="Open issues" src="https://shields.io/github/issues/1Chip1/Jyt-Language">
+</a>
 
 # Jyt-Language
 A small programming language for math And Stuff.

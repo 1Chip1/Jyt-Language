@@ -1,4 +1,6 @@
+<center>
 ![alt text](https://github.com/1Chip1/Jyt-Language/blob/main/logo.png?raw=true)
+</center>
 <a href="https://github.com/1Chip1/Jyt-Language/blob/master/LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/github/license/1Chip1/Jyt-Language">
 </a>

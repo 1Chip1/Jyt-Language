@@ -12,6 +12,8 @@
 
 # Jyt-Language
 A small programming language for math And Stuff.
+!
+# JYT IS UNDER DEVELOPMENT!
 
 # Code Examples
 Simple Variables

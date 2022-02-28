@@ -16,26 +16,19 @@ A small programming language for math And Stuff.
 # JYT IS UNDER DEVELOPMENT!
 Yo! If you can, help this lang to work!
 # Code Examples
-Simple Variables
+Print
 ```
-startv.printable name = "Jyt";
 
-print(name);
+//start the code
+start:
+    pr "Jyt" //pr = print
+    end // end the code
 ```
 output:
 ```
 Jyt
 ```
 
-
-Do Not Do This!
-```
-startv name = "Jyt";
-
-print(name);
-```
-output:
-```
 ```
 
 ## License

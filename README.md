@@ -11,7 +11,7 @@
 </a>
 
 # Jyt-Language
-A small programming language for math And Stuff.
+A small programming language for math.
 !
 # JYT IS UNDER DEVELOPMENT!
 Yo! If you can, help this lang to work!

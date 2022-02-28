@@ -31,4 +31,4 @@ Jyt
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/1Chip1/Jyt-Language/blob/main/LICENSE)

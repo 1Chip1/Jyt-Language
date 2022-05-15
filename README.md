@@ -14,7 +14,7 @@
 A small programming language for math.
 !
 # JYT IS UNDER DEVELOPMENT!
-Yo! If you can, help this lang to work!
+The Jyt Language Is Under Developent. Any One Can Help The Language!
 # Code Examples
 Print
 ```
